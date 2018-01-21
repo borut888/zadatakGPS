@@ -6,4 +6,4 @@ GPS assignment for job interviu
   It consists of features like entering "start" and "end" location, picking up the passenger and many more. 
   
   
-  ![Finished App](https://github.com/borut888/zadatakGPS/blob/master/Screen%20Shot%202018-01-21%20at%2015.22.22.png)
+  ![Example](https://github.com/borut888/zadatakGPS/blob/master/Screen%20Shot%202018-01-21%20at%2015.38.49.png)
